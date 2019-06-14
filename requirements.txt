@@ -1,0 +1,4 @@
+django
+django_heroku
+
+# Add other requirements
