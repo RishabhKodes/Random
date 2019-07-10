@@ -1,6 +1,6 @@
 use test;
  
-CREATE TABLE webapp_employees
+CREATE TABLE auth_user
 (
 id int(5) primary key,
 firstname varchar(30),
