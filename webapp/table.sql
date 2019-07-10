@@ -1,6 +1,6 @@
 use test;
  
-CREATE TABLE employee
+CREATE TABLE webapp_employees
 (
 id int(5) primary key,
 firstname varchar(30),
